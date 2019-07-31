@@ -1,5 +1,8 @@
 # Dynamicwallpaper
 [Dynamicwallpaper_VB6]
+
+myblogs: https://www.cnblogs.com/lingqingxue/p/11275587.html
+
 使用VisualBasic6製作動態壁紙模擬工具
 該項目引用了迅雷APlayer媒体播放引擎，詳情請瞭解：http://aplayer.open.xunlei.com/index.html
 
